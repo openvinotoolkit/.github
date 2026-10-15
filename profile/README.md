@@ -2,6 +2,7 @@
 [OpenVINO™](https://docs.openvino.ai/) is an open-source toolkit for optimizing and deploying AI inference.  
 Some repositories to highlight:
 * [openvino](https://github.com/openvinotoolkit/openvino) is the main repository, containing the source code for runtime and some of the core tools.
+* [openvino.genai](https://github.com/openvinotoolkit/openvino.genai) is the main repository for generative AI capabilities built on top of OpenVINO Runtime, providing C++ and Python APIs for running GenAI models.
 * [nncf](https://github.com/openvinotoolkit/nncf) containing Neural Network Compression Framework for enhanced OpenVINO™ inference to get performance boost with minimal accuracy drop.
 * [openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks) containing Jupyter notebook tutorials, which demonstrate key features of the toolkit.
 
